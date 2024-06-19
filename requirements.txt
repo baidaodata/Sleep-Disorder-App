@@ -8,3 +8,4 @@ plotly
 scikit-learn
 seaborn
 streamlit
+pandas_gbq
