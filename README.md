@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/RobinMillford/sleep-disorder-detection-app.git
+    git clone https://github.com/baidaodata/Sleep-Disorder-App.git
     cd Sleep-Disorder-Detection-App
     ```
 
