@@ -6,7 +6,7 @@ import plotly.io as pio
 from sklearn.preprocessing import MinMaxScaler
 import os
 
-model = joblib.load('best_model_decision_tree.pkl')
+model = joblib.load('best_model.pkl')
 
 # Load all Plotly figures from the "templates" folder
 def load_plotly_figures(folder_path):
