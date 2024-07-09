@@ -108,7 +108,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Streamlit](https://www.streamlit.io) - The framework used to build the web app.
 - [Unsplash](https://unsplash.com) - For the background image used in the app.
 - [Scikit-learn](https://scikit-learn.org/stable/) - For the machine learning model.
-- [Notebook](https://www.kaggle.com/code/yaminh/sleep-disorder-detection-app)
-- [Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
 
 Enjoy detecting sleep disorders and making data-driven improvements to your sleep habits! 🌙💤
