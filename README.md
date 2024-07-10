@@ -1,7 +1,5 @@
 # 🌜 Sleep Disorder Detection App
 
-![Sleep Disorder Detection](https://github.com/RobinMillford/Sleep-Disorder-Detection-App/blob/main/Prediction1.png)
-![Sleep Disorder Detection1](https://github.com/RobinMillford/Sleep-Disorder-Detection-App/blob/main/Analysis.png)
 
 ## Overview
 
@@ -63,7 +61,7 @@ Before you begin, ensure you have the following installed:
 
 ## Deployment
 
-The app is deployed on Streamlit Cloud and can be accessed [here](https://sleep-disorder-detection-app.streamlit.app/).
+The app is deployed on GCP Vertex ai  and can be accessed [here](http://34.121.13.232:8501/).
 
 ## Contributing
 
